@@ -1,0 +1,12 @@
+{
+  "name": "Talky",
+  "version": "0.0.1",
+  "description": "A real-time chat where messages come with audio",
+  "author": "Ivan Dimov",
+  "dependencies": {
+    "express": "^4.12.0",
+    "html-entities": "^1.1.3",
+    "redis": "^0.12.1",
+    "socket.io": "^1.3.4"
+  }
+}
